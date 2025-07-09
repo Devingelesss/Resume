@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devingelesss.github.io/Resume/sitemap.xml
